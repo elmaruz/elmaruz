@@ -10,6 +10,7 @@
 </br>
 
 ### 🧰 My Toolbox
+
 ---
 
 ![](https://img.shields.io/badge/Code-Javascript-%23F0DB4F?style=flat&logo=javascript)
@@ -30,6 +31,12 @@
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+### 📫 How to reach me
+
+---
+
+<a href="https://www.linkedin.com/in/leonardo-marussig-761474aa/"><img src=
 
 <!--
 **elmaruz/elmaruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
