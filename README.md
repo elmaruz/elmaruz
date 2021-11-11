@@ -9,7 +9,7 @@
 
 </br>
 
-### 🧰 My Toolbox:
+### 🧰 My Toolbox
 ---
 
 ![](https://img.shields.io/badge/Code-Javascript-%23F0DB4F?style=flat&logo=javascript)
