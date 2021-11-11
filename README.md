@@ -36,7 +36,8 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/leonardo-marussig-761474aa/"><img src=
+<a href="https://www.linkedin.com/in/leonardo-marussig-761474aa/"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/linkedin_small.svg" alt=""/></a>
+<a href="lmarussig@gmail.com">Mail</a>
 
 <!--
 **elmaruz/elmaruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
