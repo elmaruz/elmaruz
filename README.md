@@ -1,15 +1,17 @@
-<img src="https://user-images.githubusercontent.com/78145719/141988450-110ac5bf-fb62-408d-b7c2-b9611d9f7080.jpg" alt ="banner" width="1000" height="300"/>
+<img src="https://user-images.githubusercontent.com/78145719/141989686-2ae49b45-6bd8-42f5-84f6-47c2857d0c13.jpg" alt ="banner" width="1000" height="300"/>
 
 
 <h3 align="center" style="border: none;">
-👋 Hello world
+👋 Hello world - my name is Leonardo Marussig
 </h3>
 
 </br>
 
-<h3 align="center">👨‍💻 Leonardo Marussig - Full-Stack Web Developer</h3>
+<h3 align="center">👨‍💻 Full-Stack Web Developer</h3>
 
 </br>
+
+<p align="center">Passionate about all things tech, always eager to learn more.</p>
 
 ### 🧰 My Toolbox
 
