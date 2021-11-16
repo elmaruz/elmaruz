@@ -1,11 +1,11 @@
 
 <h3 align="center" style="border: none;">
-👋 Hello world, my name is Leo
+👋 Hello world
 </h3>
 
 </br>
 
-<h3 align="center">👨‍💻 Full-Stack Web Developer</h3>
+<h3 align="center">👨‍💻 Leonardo Marussig - Full-Stack Web Developer</h3>
 
 </br>
 
