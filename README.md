@@ -42,7 +42,7 @@ My background in film helps me to effectively translate client needs into visibl
 
 ---
 
-<a href="https://www.linkedin.com/in/leonardo-marussig-761474aa/"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/linkedin_small.svg" alt="" align="center" width="67px;"/></a>
+<a href="https://www.linkedin.com/in/leonardo-marussig-dev"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/linkedin_small.svg" alt="" align="center" width="67px;"/></a>
 <a href="mailto:lmarussig@gmail.com"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/email_white.png" alt="" align="center" width="45px;"/></a>
 
 <!--
