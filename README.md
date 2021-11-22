@@ -42,8 +42,8 @@ My background in film helps me to effectively translate client needs into visibl
 
 ---
 
-<a href="https://www.linkedin.com/in/leonardo-marussig-761474aa/"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/linkedin_small.svg" alt=""/></a>
-<a href="mailto:lmarussig@gmail.com"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/mail_small.svg" alt="" width="45px;"/></a>
+<a href="https://www.linkedin.com/in/leonardo-marussig-761474aa/"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/linkedin_small.svg" alt="" align="center" width="67px;"/></a>
+<a href="mailto:lmarussig@gmail.com"><img src="https://raw.githubusercontent.com/elmaruz/elmaruz/main/email_white.png" alt="" align="center" width="45px;"/></a>
 
 <!--
 **elmaruz/elmaruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
