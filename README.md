@@ -20,6 +20,7 @@ My background in film helps me to effectively translate client needs into visibl
 ---
 
 ![](https://img.shields.io/badge/Code-JavaScript-%23F0DB4F?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-178c6?style=flat&logo=typescript&color=3178c6)
 ![](https://img.shields.io/badge/Code-Node.js-%2368A063?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/Code-React-%2361DBFB?style=flat&logo=react)
 ![](https://img.shields.io/badge/Code-Redux-%23764abc?style=flat&logo=redux)
