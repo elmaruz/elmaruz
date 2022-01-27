@@ -15,6 +15,10 @@
 Adaptable and quick-learning, always keeping up with the latest developments in the field.<br>
 My background in film helps me to effectively translate client needs into visible results.</p>
 
+</br>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elmaruz&langs_count=5&theme=tokyonight)]()
+
 ### 🧰 My Toolbox
 
 ---
