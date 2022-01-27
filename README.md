@@ -7,11 +7,11 @@
 
 </br>
 
-<h3>👨‍💻 Full-Stack Web Developer</h3>
+<h3 align="center">👨‍💻 Full-Stack Web Developer</h3>
 
 </br>
 
-<p>A versatile and enthusiastic web developer, committed to delivering scalable and efficient solutions.<br>
+<p align="center">A versatile and enthusiastic web developer, committed to delivering scalable and efficient solutions.<br>
 Adaptable and quick-learning, always keeping up with the latest developments in the field.<br>
 My background in film helps me to effectively translate client needs into visible results.</p>
 
