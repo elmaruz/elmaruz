@@ -2,7 +2,7 @@
 
 
 <h3 align="center" style="border: none;">
-👋 Hello world - my name is Leonardo Marussig
+Leonardo Marussig
 </h3>
 
 </br>
