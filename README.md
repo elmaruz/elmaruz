@@ -7,13 +7,10 @@ Leonardo Marussig
 
 </br>
 
-<h3 align="center">👨‍💻 Full-Stack Web Developer</h3>
-
-</br>
-
-<p align="center">A versatile and enthusiastic web developer, committed to delivering scalable and efficient solutions.<br>
-Adaptable and quick-learning, always keeping up with the latest developments in the field.<br>
-My background in film helps me to effectively translate client needs into visible results.</p>
+<p align="center">Versatile full-stack engineer with a strong focus on building scalable, data-driven web applications. Experienced in delivering end-to-end
+solutions using TypeScript, React, Node.js, PostgreSQL, and GCP. Proven track record of developing both internal and external
+platforms, automating workflows, and integrating third-party APIs to drive business growth and efficiency. Skilled in functional and
+object-oriented programming, data visualization, and creating robust systems through testing and CI/CD best practices.</p>
 
 </br>
 
